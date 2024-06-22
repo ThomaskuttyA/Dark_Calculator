@@ -1,4 +1,4 @@
-# thom
+# Dark Calculator
 
 A new Flutter project.
 
